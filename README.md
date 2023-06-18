@@ -40,10 +40,10 @@ My Skill Set:</h2>
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="40" /></a>  
 </div>
 
-</td><td valign="top" width="40%">
+</td><td valign="botton" width="40%">
 
 <div align="right">
-<img style="margin: 10px" src="https://www.codewars.com/users/shpdaney/badges/large" alt="Figma" height="50" />
+<a href="https://www.codewars.com/users/shpdaney" target="_blank"><img style="margin: 10px" src="https://www.codewars.com/users/shpdaney/badges/large" alt="Codewars" height="50" /></a>  
 </div>
 
 </td></tr></table>  
