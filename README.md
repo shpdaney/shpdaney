@@ -1,36 +1,28 @@
 # ⚠️WARNING:⚠️ is Frontend Developer
 <h2 style="
 	font-size: 32px;
-background: rgb(179,65,255);
-background: linear-gradient(90deg, rgba(179,65,255,1) 0%, rgba(253,29,29,1) 26%, rgba(252,176,69,1) 61%);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-	background-clip: text;
 	">
 Hi! I'm Daney!</h2>
-<h3 style="margin: 0 10px;">MGF: 15.05.01 EXP:<i> 'I don`t know'</i>🤷‍♂️</h3>
-<h3 style="margin: 0 10px">This my sample Developer Card</h3>
+<h3 style="margin: 0 10px;">MGF: 15.05.01 <br> EXP:<i> 'I don`t know'</i>🤷‍♂️</h3>
+<h3 style="margin: 10px">This my sample Developer Card</h3>
 
 
-<h2 style="
-background: rgb(179,65,255);
-background: linear-gradient(90deg, rgba(179,65,255,1) 0%, rgba(253,29,29,1) 26%, rgba(252,176,69,1) 61%);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-	background-clip: text;
-	">
-My Skill Set:</h2>
-<table><tr><td valign="top" width="60%">
+<br>
+
+
+## 
+<h2>My Skill Set:</h2>
+<table><tr><td valign="top" width="100%">
 
 
 <div align="left">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="45" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" /></a>
+<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="45" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="45" /></a> 
 </div>
 
 ### Other  
@@ -40,29 +32,20 @@ My Skill Set:</h2>
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="40" /></a>  
 </div>
 
-</td><td valign="botton" width="40%">
-
-<div align="right">
-<a href="https://www.codewars.com/users/shpdaney" target="_blank"><img style="margin: 10px" src="https://www.codewars.com/users/shpdaney/badges/large" alt="Codewars" height="50" /></a>  
-</div>
-
 </td></tr></table>  
+
+<div align="center">
+<img style="margin: 10px" src="https://www.codewars.com/users/shpdaney/badges/large" alt="Figma" height="40" />
+</div>
 
 
 <br>
 
 
-<h2 style="
-background: rgb(179,65,255);
-background: linear-gradient(90deg, rgba(179,65,255,1) 0%, rgba(253,29,29,1) 26%, rgba(252,176,69,1) 61%);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-	background-clip: text;
-	">
-Connect with me:</h2>
+<h2>Connect with me:</h2>
 
-<a href="https://t.me/blackwood_s" target="_blank" style="margin: 10px">
-<svg width="50" height="50" role="img" aria-label="Telegram" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<a href="https://t.me/blackwood_s/" target="_blank" style="margin: 10px">
+<svg width="50" height="45" role="img" aria-label="Telegram" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <linearGradient x1="66.67%" y1="16.67%" x2="41.67%" y2="75%" id="linearGradient-1">
             <stop stop-color="#37AEE2" offset="0%"></stop>
@@ -79,4 +62,3 @@ Connect with me:</h2>
     <path d="M6.66933333,9.62733333 L9.89333333,12.0092667 C10.2612333,12.21226 10.52676,12.10716 10.6184,11.6677 L11.9307333,5.4835 C12.0650933,4.94482 11.7253933,4.7005 11.37344,4.86028667 L3.66744,7.83168667 C3.14143333,8.04266667 3.1445,8.33612667 3.57156,8.46688667 L5.54909333,9.08410667 L10.1272933,6.19577333 C10.34342,6.06471333 10.54178,6.135174 10.3789733,6.27966667" fill="url(#linearGradient-2)"></path>
 </svg>
 </a>
- 
