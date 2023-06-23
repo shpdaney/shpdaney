@@ -12,8 +12,6 @@ Hi! I'm Daney!</h2>
 
 ## 
 <h2>My Skill Set:</h2>
-<table><tr><td valign="top" width="100%">
-
 
 <div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a>  
@@ -25,17 +23,19 @@ Hi! I'm Daney!</h2>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="45" /></a> 
 </div>
 
-### Other  
-
+<h3>Other</h3>
 <div align="left">  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="40" /></a>  
 </div>
 
-</td></tr></table>  
 
+<br>
+
+<!-- CodeWars -->
 <div align="center">
-<img style="margin: 10px" src="https://www.codewars.com/users/shpdaney/badges/large" alt="Figma" height="40" />
+<h3>My CodeWars Rating</h3>
+<img style="margin: 0" src="https://www.codewars.com/users/shpdaney/badges/large" alt="Figma" height="40" />
 </div>
 
 
