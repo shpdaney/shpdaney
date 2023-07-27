@@ -8,7 +8,6 @@ Hi! I'm Daney!</h2>
 <br>
 
 
-##
 <h2>My Skill Set:</h2>
 
 <div align="left">
