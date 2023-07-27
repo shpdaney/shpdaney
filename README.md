@@ -1,4 +1,5 @@
 # ⚠️WARNING:⚠️ is Frontend Developer
+
 <h2 style="font-size: 32px;">
 Hi! I'm Daney!</h2>
 <h3 style="margin: 0 10px;">MGF: 15.05.01 <br> EXP:<i> 'I don`t know'</i>🤷‍♂️</h3>
@@ -19,7 +20,7 @@ Hi! I'm Daney!</h2>
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="45" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="45" /></a> -->
 <a href="https://skillicons.dev">
-  <img style='margin: 10px;' src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,webpack,vite" />
+  <img style='margin: 10px;' src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,webpack" />
 </a>
 
 </div>
@@ -32,6 +33,11 @@ Hi! I'm Daney!</h2>
   </a>
 </div>
 
+<h3>Work at</h3>
+<div align="left">
+  <img style='margin: 0 5px 0 10px;' src="https://skillicons.dev/icons?i=vscode" />
+  <img height='45' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/768px-WebStorm_Icon.svg.png?20210315203338'>
+</div>
 
 <br>
 
