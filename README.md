@@ -44,7 +44,7 @@ Hi! I'm Daney!</h2>
 
 <!-- CodeWars -->
 <div align="center">
-  <h3>My CodeWars Rating</h3>
+  <h3>💪My CodeWars Rating🏆</h3>
   <a href="https://www.codewars.com/users/shpdaney/" target="_blank">
     <img style="margin: 0" src="https://www.codewars.com/users/shpdaney/badges/large" alt="Codewars" height="40" />
   </a>
