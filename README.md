@@ -20,7 +20,7 @@ Hi! I'm Daney!</h2>
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="45" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="45" /></a> -->
 <a href="https://skillicons.dev">
-  <img style='margin: 10px;' src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,webpack,vite" />
+  <img style='margin: 10px;' src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,webpack,vite" />
 </a>
 
 </div>
